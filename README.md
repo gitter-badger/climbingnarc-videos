@@ -1,5 +1,7 @@
 # Climbingnarc-videos
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/xdumaine/climbingnarc-videos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
